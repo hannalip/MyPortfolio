@@ -13,6 +13,6 @@
   * CSS
 
 ### Launch
-To launch this application click or copy and paste the following link in your browser.
+To launch this application click or copy and paste the following link in your browser. https://hannalip.github.io/MyPortfolio/
 
 * **Licences:** Copyright © 2020 Hannali. All Rights Reserved
