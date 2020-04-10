@@ -164,6 +164,7 @@ p {
 
   a.social-button {
     background: white;
+  
   }
 
   a.link-linkedin:hover{
@@ -200,4 +201,16 @@ form{
 }
 .repo{
     font-size: 20px;
+}
+.backcolor {
+    background-color:purple;
+}
+
+.blogBox .item img{
+height: 1px;
+width: 4em;
+}
+
+strong{
+    text-align: left;
 }
